@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WpfApp1/v15/Server/sqlite3/storage.ide-wal
+/.vs/WpfApp1/v15/Server/sqlite3/storage.ide-shm
+/.vs/WpfApp1/v15/Server/sqlite3/storage.ide
+/.vs/WpfApp1/v15/Server/sqlite3/db.lock

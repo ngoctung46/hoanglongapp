@@ -1,0 +1,291 @@
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Controls\HomeControl\IndexControl.g.cs
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Dragablz.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\ReactiveUI.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Splat.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.Core.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Dragablz.pdb
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Dragablz.xml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\ReactiveUI.pdb
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\ReactiveUI.xml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Splat.pdb
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.Core.xml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Controls\HomeControl\RoomControl.g.cs
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Controls\HomeControl\IndexControl.baml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Controls\HomeControl\RoomControl.baml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WPFToolkit.dll
+C:\Users\Tung\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.application
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\Dragablz.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\ReactiveUI.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\Splat.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Core.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\WPFToolkit.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\Dragablz.pdb
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\Dragablz.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\ReactiveUI.pdb
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\ReactiveUI.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\Splat.pdb
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Core.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\RoomControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerInfoControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\ChangeRoomControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\IndexControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\MainWindowControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\RoomControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\OrderControls\OrderControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\ReportControls\ReportIndexControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\ServiceControls\ServiceControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\App.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerInfoControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\ChangeRoomControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\IndexControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\MainWindowControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\OrderControls\OrderControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\ReportControls\ReportIndexControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\ServiceControls\ServiceControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.application
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\WpfApp1.application
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\Dragablz.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\ReactiveUI.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\Splat.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.Core.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\WPFToolkit.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\Dragablz.pdb
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\Dragablz.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\ReactiveUI.pdb
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\ReactiveUI.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\Splat.pdb
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.Core.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\HomeControls\RoomControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerInfoControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\HomeControls\ChangeRoomControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\HomeControls\IndexControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\HomeControls\MainWindowControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\HomeControls\RoomControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\OrderControls\OrderControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\ReportControls\ReportIndexControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\ServiceControls\ServiceControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\App.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerInfoControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\HomeControls\ChangeRoomControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\HomeControls\IndexControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\HomeControls\MainWindowControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\OrderControls\OrderControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\ReportControls\ReportIndexControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\ServiceControls\ServiceControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.application
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\LoginControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\LoginWindow.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\LoginControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\LoginWindow.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\LoginControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\LoginWindow.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\LoginControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\LoginWindow.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\ExpenseControls\ExpenseIndexControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\ExpenseControls\ExpenseIndexControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\ExpenseControls\ExpenseIndexControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\ExpenseControls\ExpenseIndexControl.baml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\ClosedXML.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\FastMember.Signed.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\System.IO.Packaging.dll
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\ClosedXML.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\BookingControls\BookingIndexControl.g.cs
+C:\Users\Tung\Documents\hoanglongvn\WpfApp1\obj\Debug\Controls\BookingControls\BookingIndexControl.baml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\ClosedXML.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\FastMember.Signed.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\System.IO.Packaging.dll
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\ClosedXML.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\BookingControls\BookingIndexControl.g.cs
+C:\Users\Tung\Documents\hoanglongwpf\WpfApp1\obj\Debug\Controls\BookingControls\BookingIndexControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.exe.manifest
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.application
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\ClosedXML.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\Dragablz.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\FastMember.Signed.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\MaterialDesignColors.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\ReactiveUI.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\Splat.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.IO.Packaging.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Core.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\WPFToolkit.dll
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\ClosedXML.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\Dragablz.pdb
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\Dragablz.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\ReactiveUI.pdb
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\ReactiveUI.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\Splat.pdb
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Core.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\RoomControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\BookingControls\BookingIndexControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerInfoControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\ExpenseControls\ExpenseIndexControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\ChangeRoomControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\IndexControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\MainWindowControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\RoomControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\LoginControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\OrderControls\OrderControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\ReportControls\ReportIndexControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\ServiceControls\ServiceControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\ServiceControls\ServiceReportControl.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\LoginWindow.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\ServiceWindow.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\App.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\BookingControls\BookingIndexControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\CustomerControls\CustomerInfoControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\ExpenseControls\ExpenseIndexControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\ChangeRoomControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\IndexControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\HomeControls\MainWindowControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\LoginControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\OrderControls\OrderControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\ReportControls\ReportIndexControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\ServiceControls\ServiceControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\Controls\ServiceControls\ServiceReportControl.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\LoginWindow.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\ServiceWindow.baml
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.exe.manifest
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.application
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Tung\source\repos\hoanglongwpf\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="WpfApp1.Controls.LoginControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WpfApp1.Controls"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+             TextElement.FontWeight="Regular"
+             TextElement.FontSize="30"
+             TextOptions.TextFormattingMode="Ideal"
+             TextOptions.TextRenderingMode="Auto"
+             Background="{DynamicResource MaterialDesignPaper}"
+             FontFamily="{DynamicResource MaterialDesignFont}"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <StackPanel Margin="10">
+        <TextBlock Text="Đăng Nhập" TextAlignment="Center" Margin="10" Foreground="OrangeRed" />
+        <TextBox x:Name="UserNameTextBox"
+                 materialDesign:HintAssist.Hint="ID"
+                 Margin="10" />
+        <TextBox x:Name="PasswordTextBox" Margin="10"
+                 materialDesign:HintAssist.Hint="Mật Khẩu" />
+        <TextBlock x:Name="StatusTextBlock" Text="" FontSize="20" Foreground="OrangeRed" />
+        <Button Style="{StaticResource MaterialDesignRaisedLightButton}"
+                Margin="5,5,5,5"
+                IsDefault="True"
+                FontSize="30"
+                Height="50"
+                Foreground="White"
+                Content="OK"
+                Click="LogIn_Click" />
+    </StackPanel>
+</UserControl>

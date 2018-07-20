@@ -1,0 +1,111 @@
+﻿<UserControl    x:Class="WpfApp1.Controls.HomeControls.RoomControl"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+                mc:Ignorable="d"
+                TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+                TextElement.FontWeight="Regular"
+                TextElement.FontSize="20"
+                TextOptions.TextFormattingMode="Ideal"
+                TextOptions.TextRenderingMode="Auto"
+                Background="{DynamicResource MaterialDesignPaper}"
+                FontFamily="{DynamicResource MaterialDesignFont}"
+                d:DesignHeight="250" d:DesignWidth="250">
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Card.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.CheckBox.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Flipper.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Popupbox.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <materialDesign:DialogHost x:Name="CustomerDialogHost">
+            <materialDesign:DialogHost.DialogContent>
+                <StackPanel x:Name="DialogContentPanel" />
+            </materialDesign:DialogHost.DialogContent>
+            <materialDesign:Card Margin="4 4 0 0" Width="250" Height="200" x:Name="RoomCard">
+                <Grid x:Name="RoomGrid">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="100" />
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="50" />
+                    </Grid.RowDefinitions>
+                    <Grid Height="100" HorizontalAlignment="Center" Width="250">
+                        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="50" Text="{Binding Room.Name}"></TextBlock>
+                    </Grid>
+                    <StackPanel Grid.Row="1" Margin="8 2 8 2">
+                        <TextBlock TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding Room.Description}"></TextBlock>
+                        <TextBlock x:Name="StatusTextBlock" TextWrapping="Wrap" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+                    </StackPanel>
+                    <materialDesign:ColorZone
+                        x:Name="OccupiedZone"
+                        Visibility="Collapsed"
+                        Foreground="LightBlue"
+                        Mode="PrimaryLight" Grid.Row="2"
+                        Effect="{DynamicResource MaterialDesignShadowDepth5}">
+                        <StackPanel HorizontalAlignment="Stretch" Orientation="Horizontal" Margin="8">
+                            <Button Style="{StaticResource MaterialDesignToolButton}"
+                                    Width="45" Padding="2 0 2 0"
+                                    ToolTip="Dọn Phòng"
+                                    Command="{Binding CleaningCommand}"
+                                    materialDesign:RippleAssist.IsCentered="True">
+                                <materialDesign:PackIcon Kind="Broom" />
+                            </Button>
+                            <Button Style="{StaticResource MaterialDesignToolButton}"
+                                    Width="45" Padding="2 0 2 0"
+                                    ToolTip="Chuyển Phòng"
+                                    Command="{Binding ChangeRoomCommand}"
+                                    materialDesign:RippleAssist.IsCentered="True">
+                                <materialDesign:PackIcon Kind="Autorenew" />
+                            </Button>
+                            <Button Style="{StaticResource MaterialDesignToolButton}"
+                                    Width="45" Padding="2 0 2 0"
+                                    ToolTip="Thêm Dịch Vụ"
+                                    Command="{Binding AddServiceCommand}"
+                                    materialDesign:RippleAssist.IsCentered="True">
+                                <materialDesign:PackIcon Kind="Basket" />
+                            </Button>
+                            <Button Style="{StaticResource MaterialDesignToolButton}"
+                                    Width="45" Padding="2 0 2 0"
+                                    ToolTip="Xem Thông Tin Khách Hàng"
+                                    Command="{Binding ShowCustomerInfoCommand}"
+                                    materialDesign:RippleAssist.IsCentered="True">
+                                <materialDesign:PackIcon Kind="Account" />
+                            </Button>
+                            <Button Style="{StaticResource MaterialDesignToolButton}"
+                                    Width="45" Padding="2 0 2 0"
+                                    ToolTip="Trả Phòng"
+                                    Command="{Binding ViewReceiptCommand}"
+                                    materialDesign:RippleAssist.IsCentered="True">
+                                <materialDesign:PackIcon Kind="Cash" />
+                            </Button>
+                        </StackPanel>
+                    </materialDesign:ColorZone>
+                    <materialDesign:ColorZone
+                        x:Name="AvailableZone"
+                        Visibility="Collapsed"
+                        Foreground="LightBlue"
+                        Mode="PrimaryLight" Grid.Row="2"
+                        Effect="{DynamicResource MaterialDesignShadowDepth5}">
+                        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Margin="8">
+                            <Button Style="{StaticResource MaterialDesignToolButton}"
+                                    Padding="2 0 2 0"
+                                    Width="250"
+                                    HorizontalAlignment="Stretch"
+                                    materialDesign:RippleAssist.IsCentered="True"
+                                    Command="{Binding OpenDialogCommand}">
+                                <materialDesign:PackIcon Kind="LoginVariant" HorizontalAlignment="Stretch" Width="250" />
+                            </Button>
+                        </StackPanel>
+                    </materialDesign:ColorZone>
+                </Grid>
+            </materialDesign:Card>
+        </materialDesign:DialogHost>
+    </Grid>
+</UserControl>
